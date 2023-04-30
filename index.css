@@ -61,7 +61,7 @@ body {
    }
    
    .link:hover {
-       text-decoration: none;
+       text-decoration: underline;
    }
    
    .margin-top_zero {
